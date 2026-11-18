@@ -1,6 +1,6 @@
 // Muscu – service worker: makes the app work offline.
 // Change VERSION when you update a file so phones pick up the new version.
-const VERSION = "muscu-v1";
+const VERSION = "muscu-v2";
 const FILES = [
   "./",
   "index.html",
